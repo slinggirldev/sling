@@ -1,0 +1,4 @@
+#_quarto.yml
+project:
+  type: website 
+  output-dir: docs
